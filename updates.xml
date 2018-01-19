@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <document signature="Lone Wolf Updates" version="1">
-<update name="Zach Lundell (V0.1)" date="2018/01/16:2028" size="11819" description="Apprentice Class, only has options for Cleric and Sorc. Adds to Caster level, but not other class abilities WIP. " uniqueid="0" filetype="3" download="https://raw.githubusercontent.com/zmon49/Herolab-Customs/master/Apprentice.hl" website="" companyurl="" priority="99" major="0" minor="1" patch="" folder="pathfinder" special="zmon" dynamic="" platform="unspecified"/>
+<update name="Zmon&apos;s HomeBrew (V0.2)" date="2018/01/18:1722" size="2" description="Need class levels to select Areas Of apprenticeship" uniqueid="0" filetype="3" download="https://raw.githubusercontent.com/zmon49/Herolab-Customs/master/Apprentice.hl" website="" companyurl="" priority="99" major="0" minor="2" patch="" folder="pathfinder" special="zmon" dynamic="" platform="unspecified"/>
 </document>
