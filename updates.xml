@@ -1,8 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <document signature="Lone Wolf Updates" version="1">
-<<<<<<< HEAD
-<update name="Zmon&apos;s HomeBrew (V0.2)" date="2018/01/18:1722" size="2" description="Need class levels to select Areas Of apprenticeship" uniqueid="0" filetype="3" download="https://raw.githubusercontent.com/zmon49/Herolab-Customs/master/Apprentice.hl" website="" companyurl="" priority="99" major="0" minor="2" patch="" folder="pathfinder" special="zmon" dynamic="" platform="unspecified"/>
-=======
-<update name="Zmon&apos;s HomeBrew (V0.6)" date="2018/01/23:1549" size="3" description="Apprentice Framework for all options available" uniqueid="0" filetype="3" download="https://raw.githubusercontent.com/zmon49/Herolab-Customs/master/Apprentice.hl" website="" companyurl="" priority="99" major="0" minor="6" patch="" folder="pathfinder" special="zmon" dynamic="" platform="unspecified"/>
->>>>>>> dev
+<update name="Zmon&apos;s HomeBrew (V0.2)" date="2018/01/23:1550" size="2" description="Need class levels to select Areas Of apprenticeship" uniqueid="0" filetype="3" download="https://raw.githubusercontent.com/zmon49/Herolab-Customs/master/Apprentice.hl" website="" companyurl="" priority="99" major="0" minor="2" patch="" folder="pathfinder" special="zmon" dynamic="" platform="unspecified"/>
 </document>
